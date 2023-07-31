@@ -1,2 +1,2 @@
-# polling-system-api
+# craftozoic-voting-system
 Created with CodeSandbox
